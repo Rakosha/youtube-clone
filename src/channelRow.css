@@ -1,0 +1,43 @@
+.channelRow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 70%;
+}
+
+.channelRow .channelRow__logo {
+  width: 120px !important;
+  height: 120px !important;
+  margin: 10px 60px;
+}
+
+.channelRow .channelRow__text {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.channelRow .channelRow__text > p {
+  font-size: small;
+  color: #606060;
+}
+
+.channelRow .channelRow__text > h4 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/*# sourceMappingURL=channelRow.css.map */

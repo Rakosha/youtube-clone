@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,kBAAkB,CAAC;EACjB,IAAI,EAAE,GAAG;EACT,gBAAgB,EAAE,OAAO;EACzB,OAAO,EAAE,SAAS;EAClB,cAAc,EAAE,CAAC;CASlB;;AAbD,AAKE,kBALgB,CAKhB,EAAE,CAAC;EACD,WAAW,EAAE,GAAG;EAChB,aAAa,EAAE,IAAI;CACpB;;AARH,AASE,kBATgB,CAShB,0BAA0B,CAAC;EACzB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;CAChB",
+    "sources": [
+        "recommendedVideos.scss"
+    ],
+    "names": [],
+    "file": "recommendedVideos.css"
+}
